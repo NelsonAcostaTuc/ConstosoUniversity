@@ -29,7 +29,7 @@ namespace ContosoUniversity.PagesStudents
                 return NotFound();
             }
 
-            Student = await _context.Student.SingleOrDefaultAsync(m => m.ID == id);
+            Student = await _context.Students.SingleOrDefaultAsync(m => m.ID == id);
 
             if (Student == null)
             {
@@ -45,11 +45,11 @@ namespace ContosoUniversity.PagesStudents
                 return NotFound();
             }
 
-            Student = await _context.Student.FindAsync(id);
+            Student = await _context.Students.FindAsync(id);
 
             if (Student != null)
             {
-                _context.Student.Remove(Student);
+                _context.Students.Remove(Student);
                 await _context.SaveChangesAsync();
             }
 
