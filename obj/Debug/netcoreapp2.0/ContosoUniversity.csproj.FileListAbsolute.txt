@@ -8,3 +8,13 @@
 /home/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.AssemblyInfo.cs
 /home/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.dll
 /home/ContosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.pdb
+/home/ConstosoUniversity/bin/Debug/netcoreapp2.0/ContosoUniversity.deps.json
+/home/ConstosoUniversity/bin/Debug/netcoreapp2.0/ContosoUniversity.runtimeconfig.json
+/home/ConstosoUniversity/bin/Debug/netcoreapp2.0/ContosoUniversity.runtimeconfig.dev.json
+/home/ConstosoUniversity/bin/Debug/netcoreapp2.0/ContosoUniversity.dll
+/home/ConstosoUniversity/bin/Debug/netcoreapp2.0/ContosoUniversity.pdb
+/home/ConstosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.csproj.CoreCompileInputs.cache
+/home/ConstosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.AssemblyInfoInputs.cache
+/home/ConstosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.AssemblyInfo.cs
+/home/ConstosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.dll
+/home/ConstosoUniversity/obj/Debug/netcoreapp2.0/ContosoUniversity.pdb
