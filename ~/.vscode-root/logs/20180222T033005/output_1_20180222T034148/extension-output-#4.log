@@ -1,0 +1,52 @@
+Starting OmniSharp server at 2/22/2018, 3:41:51 AM
+    Target: /home/proyectoABMMovie
+
+OmniSharp server started wth Mono
+    Path: /root/.vscode/extensions/ms-vscode.csharp-1.14.0/.omnisharp/run
+    PID: 4467
+
+﻿[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on ubuntu 16.4 (x64)
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 1 MSBuild instance(s)
+            1: StandAlone 15.0 - "/root/.vscode/extensions/ms-vscode.csharp-1.14.0/.omnisharp/omnisharp/msbuild/15.0/Bin"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        MSBUILD_EXE_PATH environment variable set to '/root/.vscode/extensions/ms-vscode.csharp-1.14.0/.omnisharp/omnisharp/msbuild/15.0/Bin/MSBuild.dll'
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: StandAlone 15.0 - "/root/.vscode/extensions/ms-vscode.csharp-1.14.0/.omnisharp/omnisharp/msbuild/15.0/Bin"
+            MSBuildExtensionsPath = /root/.vscode/extensions/ms-vscode.csharp-1.14.0/.omnisharp/omnisharp/msbuild
+            CscToolPath = /root/.vscode/extensions/ms-vscode.csharp-1.14.0/.omnisharp/omnisharp/msbuild/15.0/Bin/Roslyn
+            CscToolExe = csc.exe
+            MSBuildToolsPath = /root/.vscode/extensions/ms-vscode.csharp-1.14.0/.omnisharp/omnisharp/msbuild/15.0/Bin
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Detecting Cake files in '/home/proyectoABMMovie'.
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Could not find any Cake files
+[info]: OmniSharp.DotNet.DotNetProjectSystem
+        Initializing in /home/proyectoABMMovie
+[info]: OmniSharp.DotNet.DotNetProjectSystem
+        Auto package restore: False
+[info]: OmniSharp.DotNet.DotNetProjectSystem
+        Update workspace context
+[info]: OmniSharp.DotNet.DotNetProjectSystem
+        Resolving projects references
+[info]: OmniSharp.MSBuild.ProjectSystem
+        No solution files found in '/home/proyectoABMMovie'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/proyectoABMMovie/MvcMovie.csproj'
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in '/home/proyectoABMMovie'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Could not find any CSX files
+[info]: OmniSharp.Stdio.Host
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpWorkspaceOptionsProvider
+[info]: OmniSharp.Stdio.Host
+        Configuration finished.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/proyectoABMMovie/MvcMovie.csproj
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location '/home/proyectoABMMovie' on host 4354.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Adding project '/home/proyectoABMMovie/MvcMovie.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: MvcMovie
