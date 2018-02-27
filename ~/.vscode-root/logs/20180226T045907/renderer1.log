@@ -1,0 +1,931 @@
+[2018-02-26 04:59:35.841] [renderer1] [error] Illegal argument: line must be non-negative: Error: Illegal argument: line must be non-negative
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:86:307)
+    at new e (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:462:192)
+    at CodeActionProvider.getInitializeFromCtorCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:166:61)
+    at addInitalizeFromCtor (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:19:9)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-26 05:00:22.414] [renderer1] [error] Cannot read property 'selection' of undefined: TypeError: Cannot read property 'selection' of undefined
+    at CodeActionProvider.getInitializeFromCtorCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:165:32)
+    at addInitalizeFromCtor (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:19:9)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-26 05:00:29.644] [renderer1] [error] Cannot read property 'selection' of undefined: TypeError: Cannot read property 'selection' of undefined
+    at CodeActionProvider.getInitializeFromCtorCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:165:32)
+    at addInitalizeFromCtor (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:19:9)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 05:29:55.598] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:29:56.799] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:29:58.182] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:29:59.267] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:31:59.349] [renderer1] [error] Cannot read property 'selection' of undefined: TypeError: Cannot read property 'selection' of undefined
+    at CodeActionProvider.getInitializeFromCtorCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:165:32)
+    at addInitalizeFromCtor (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:19:9)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 05:32:03.552] [renderer1] [error] Cannot read property 'selection' of undefined: TypeError: Cannot read property 'selection' of undefined
+    at CodeActionProvider.getInitializeFromCtorCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:165:32)
+    at addInitalizeFromCtor (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:19:9)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 05:34:17.455] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:34:20.017] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:34:21.071] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:34:22.178] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:34:23.685] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:34:52.696] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:34:53.888] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:35:02.839] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:35:37.106] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:35:47.249] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:35:48.771] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:35:50.532] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:35:51.824] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:35:53.515] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:39:12.087] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:39:14.217] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:39:15.560] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:39:16.606] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:39:18.354] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:39:28.239] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:39:44.454] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:39:45.654] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:40:30.200] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:40:44.869] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:40:47.213] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:41:22.449] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:41:29.980] [renderer1] [error] Illegal argument: line must be non-negative: Error: Illegal argument: line must be non-negative
+    at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:86:307)
+    at new e (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:462:192)
+    at CodeActionProvider.getInitializeFromCtorCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:166:61)
+    at addInitalizeFromCtor (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:19:9)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 05:41:46.871] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:41:48.305] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:41:54.899] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:42:04.161] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:42:06.651] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:42:07.797] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:42:12.397] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:42:50.481] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at t._lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:487:34)
+    at Object.lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:485:801)
+    at CodeActionProvider.findClassFromLine (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:122:33)
+    at CodeActionProvider.getCtorpCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:77:32)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:22:33)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 05:42:54.289] [renderer1] [error] Cannot read property 'selection' of undefined: TypeError: Cannot read property 'selection' of undefined
+    at CodeActionProvider.getInitializeFromCtorCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:165:32)
+    at addInitalizeFromCtor (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:19:9)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 05:43:38.912] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:43:40.134] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:45:01.882] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:46:08.586] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:46:10.061] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:46:11.106] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:46:13.037] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:46:16.255] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:46:17.656] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:46:26.134] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:46:27.202] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:46:41.537] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:47:15.199] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:47:16.489] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:47:17.555] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:47:19.233] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 05:52:56.839] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at t._lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:487:34)
+    at Object.lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:485:801)
+    at CodeActionProvider.findClassFromLine (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:122:33)
+    at CodeActionProvider.getCtorpCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:77:32)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:22:33)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 05:53:00.444] [renderer1] [error] Cannot read property 'selection' of undefined: TypeError: Cannot read property 'selection' of undefined
+    at CodeActionProvider.getInitializeFromCtorCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:165:32)
+    at addInitalizeFromCtor (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:19:9)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:03:15.844] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:03:25.046] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:03:31.721] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:05:18.520] [renderer1] [error] Cannot read property 'selection' of undefined: TypeError: Cannot read property 'selection' of undefined
+    at CodeActionProvider.getInitializeFromCtorCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:165:32)
+    at addInitalizeFromCtor (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:19:9)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:06:40.738] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:06:47.043] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:06:53.427] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:06:56.899] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e.$acceptModelSaved (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:793)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:08:26.786] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:08:29.525] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e.$acceptModelSaved (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:793)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:09:03.997] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:09:14.128] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:09:15.749] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:09:37.399] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:10:52.197] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:11:02.282] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:11:05.754] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:15:30.630] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:15:32.451] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e.$acceptModelSaved (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:793)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:19:00.455] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at t._lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:487:34)
+    at Object.lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:485:801)
+    at CodeActionProvider.findClassFromLine (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:122:33)
+    at CodeActionProvider.getCtorpCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:77:32)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:22:33)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:33:03.510] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:33:05.630] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:34:13.847] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:35:58.297] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at t._lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:487:34)
+    at Object.lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:485:801)
+    at CodeActionProvider.findClassFromLine (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:122:33)
+    at CodeActionProvider.getCtorpCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:77:32)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:22:33)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-02-27 06:37:26.966] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:37:28.302] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:37:48.002] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:37:51.256] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:37:52.805] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:37:58.582] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-02-27 06:38:19.124] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at t._lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:487:34)
+    at Object.lineAt (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:485:801)
+    at CodeActionProvider.findClassFromLine (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:122:33)
+    at CodeActionProvider.getCtorpCommand (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:77:32)
+    at CodeActionProvider.provideCodeActions (/root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/codeActionProvider.js:22:33)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:730
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:622
+    at new n.Class.derive._oncancel (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:75:657)
+    at Object.t.asWinJsPromise (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:585)
+    at e.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:628:684)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:51
+    at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:637:537)
+    at e.$provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:641:13)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+

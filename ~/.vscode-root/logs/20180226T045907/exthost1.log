@@ -1,0 +1,84 @@
+[2018-02-26 04:59:13.719] [exthost1] [info] extension host started
+[2018-02-26 04:59:13.751] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-02-26 04:59:13.751] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-02-26 04:59:14.059] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-02-26 04:59:14.059] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-02-26 04:59:14.212] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-02-26 04:59:14.212] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-02-26 04:59:14.276] [exthost1] [info] ExtensionService#_doActivateExtension bajdzis.vscode-database {"startup":true,"activationEvent":"*"}
+[2018-02-26 04:59:14.276] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/bajdzis.vscode-database-1.5.0/extension
+[2018-02-26 04:59:14.926] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-02-26 04:59:14.926] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/eamodio.gitlens-8.0.2/out/extension
+[2018-02-26 04:59:16.498] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-02-26 04:59:16.498] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/robertohuertasm.vscode-icons-7.20.0/out/src/
+[2018-02-26 04:59:17.087] [exthost1] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"activationEvent":"*"}
+[2018-02-26 04:59:17.087] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2018-02-26 04:59:18.830] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"activationEvent":"workspaceContains:*.csproj,*.sln,*.csx,*.cake,**/*.csproj,**/*.sln,**/*.csx,**/*.cake"}
+[2018-02-26 04:59:18.830] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/ms-vscode.csharp-1.14.0/out/src/main
+[2018-02-26 04:59:19.886] [exthost1] [info] eager extensions activated
+[2018-02-26 04:59:26.840] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html {"startup":false,"activationEvent":"onLanguage:razor"}
+[2018-02-26 04:59:26.840] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html/client/out/htmlMain
+[2018-02-26 04:59:35.297] [exthost1] [info] ExtensionService#_doActivateExtension jchannon.csharpextensions {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-02-26 04:59:35.297] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/extension
+[2018-02-26 04:59:35.585] [exthost1] [info] ExtensionService#_doActivateExtension k--kato.docomment {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-02-26 04:59:35.585] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/extension
+[2018-02-26 05:00:03.869] [exthost1] [info] extension host started
+[2018-02-26 05:00:03.893] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:00:03.895] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-02-26 05:00:03.949] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:00:03.949] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-02-26 05:00:04.015] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:00:04.015] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-02-26 05:00:04.026] [exthost1] [info] ExtensionService#_doActivateExtension bajdzis.vscode-database {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:00:04.026] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/bajdzis.vscode-database-1.5.0/extension
+[2018-02-26 05:00:04.070] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:00:04.070] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/eamodio.gitlens-8.0.2/out/extension
+[2018-02-26 05:00:04.241] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:00:04.241] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/robertohuertasm.vscode-icons-7.20.0/out/src/
+[2018-02-26 05:00:04.330] [exthost1] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:00:04.330] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2018-02-26 05:00:04.408] [exthost1] [info] ExtensionService#_doActivateExtension jchannon.csharpextensions {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-02-26 05:00:04.408] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/extension
+[2018-02-26 05:00:04.499] [exthost1] [info] ExtensionService#_doActivateExtension k--kato.docomment {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-02-26 05:00:04.499] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/extension
+[2018-02-26 05:00:04.505] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-02-26 05:00:04.505] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/ms-vscode.csharp-1.14.0/out/src/main
+[2018-02-26 05:00:05.049] [exthost1] [info] eager extensions activated
+[2018-02-26 05:00:15.160] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html {"startup":false,"activationEvent":"onLanguage:razor"}
+[2018-02-26 05:00:15.160] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html/client/out/htmlMain
+[2018-02-26 05:01:06.180] [exthost1] [info] extension host started
+[2018-02-26 05:01:06.213] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:01:06.213] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-02-26 05:01:06.266] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:01:06.266] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-02-26 05:01:06.355] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:01:06.355] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-02-26 05:01:06.368] [exthost1] [info] ExtensionService#_doActivateExtension bajdzis.vscode-database {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:01:06.368] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/bajdzis.vscode-database-1.5.0/extension
+[2018-02-26 05:01:06.424] [exthost1] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:01:06.424] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/eamodio.gitlens-8.0.2/out/extension
+[2018-02-26 05:01:06.584] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:01:06.584] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/robertohuertasm.vscode-icons-7.20.0/out/src/
+[2018-02-26 05:01:06.663] [exthost1] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"activationEvent":"*"}
+[2018-02-26 05:01:06.663] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2018-02-26 05:01:07.032] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"activationEvent":"workspaceContains:*.csproj,*.sln,*.csx,*.cake,**/*.csproj,**/*.sln,**/*.csx,**/*.cake"}
+[2018-02-26 05:01:07.032] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/ms-vscode.csharp-1.14.0/out/src/main
+[2018-02-26 05:01:07.202] [exthost1] [info] eager extensions activated
+[2018-02-27 05:26:18.899] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html {"startup":false,"activationEvent":"onLanguage:razor"}
+[2018-02-27 05:26:18.900] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html/client/out/htmlMain
+[2018-02-27 05:26:25.605] [exthost1] [info] ExtensionService#_doActivateExtension jchannon.csharpextensions {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-02-27 05:26:25.605] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/jchannon.csharpextensions-1.3.0/out/src/extension
+[2018-02-27 05:26:25.715] [exthost1] [info] ExtensionService#_doActivateExtension k--kato.docomment {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-02-27 05:26:25.715] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/extension
+[2018-02-27 06:16:40.916] [exthost1] [info] ExtensionService#_doActivateExtension msjsdiag.debugger-for-chrome {"startup":false,"activationEvent":"onDebug"}
+[2018-02-27 06:16:40.916] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/msjsdiag.debugger-for-chrome-4.1.0/out/src/extension
+[2018-02-27 06:16:41.802] [exthost1] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-02-27 06:16:41.802] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/grunt/out/main
+[2018-02-27 06:16:41.896] [exthost1] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-02-27 06:16:41.896] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/gulp/out/main
+[2018-02-27 06:16:41.937] [exthost1] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-02-27 06:16:41.937] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/jake/out/main
+[2018-02-27 06:16:41.979] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-02-27 06:16:41.979] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/out/main
+[2018-02-27 06:16:42.065] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-02-27 06:16:42.065] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript/out/extension
