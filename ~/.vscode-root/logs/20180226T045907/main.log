@@ -19,3 +19,16 @@
 [2018-02-27 04:57:06.794] [main] [info] update#setState idle
 [2018-02-27 05:57:04.087] [main] [info] update#setState checking for updates
 [2018-02-27 05:57:09.784] [main] [info] update#setState idle
+[2018-02-27 06:57:04.236] [main] [info] update#setState checking for updates
+[2018-02-27 06:57:05.419] [main] [info] update#setState idle
+[2018-02-27 07:57:04.343] [main] [info] update#setState checking for updates
+[2018-02-27 07:57:26.003] [main] [error] Error: net::ERR_CONNECTION_REFUSED
+[2018-02-27 07:57:26.011] [main] [info] update#setState idle
+[2018-02-27 08:57:04.469] [main] [info] update#setState checking for updates
+[2018-02-27 08:57:05.919] [main] [info] update#setState idle
+[2018-02-27 09:57:04.601] [main] [info] update#setState checking for updates
+[2018-02-27 09:57:05.987] [main] [info] update#setState idle
+[2018-02-27 10:57:04.723] [main] [info] update#setState checking for updates
+[2018-02-27 10:57:06.591] [main] [info] update#setState idle
+[2018-02-27 11:57:04.834] [main] [info] update#setState checking for updates
+[2018-02-27 11:57:06.214] [main] [info] update#setState idle
