@@ -1,0 +1,170 @@
+[2018-03-01 10:26:41.225] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-03-01 10:26:43.299] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e.$acceptModelSaved (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:793)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-03-01 10:28:08.090] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-03-01 10:30:31.505] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e.$acceptModelSaved (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:793)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-03-01 10:30:58.780] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-03-01 10:31:06.107] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-03-01 10:31:35.334] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-03-01 10:31:54.788] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-03-01 10:31:59.664] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-03-01 10:32:01.971] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-03-01 10:32:14.197] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+    at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:471:178)
+    at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+    at <anonymous>:null:null
+
+[2018-03-01 10:36:08.983] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
+[2018-03-01 10:36:11.419] [renderer1] [error] Cannot read property 'text' of undefined: TypeError: Cannot read property 'text' of undefined
+    at DocommentDomainCSharp.IsTriggerDocomment (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/Lang/DocommentDomainCSharp.js:21:38)
+    at DocommentDomainCSharp.Execute (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Domain/DocommentDomain.js:20:19)
+    at DocommentControllerCSharp._onEvent (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:52:31)
+    at DocommentControllerCSharp.DocommentController.vscode_1.workspace.onDidChangeTextDocument.event (/root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/Controller/DocommentController.js:18:22)
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:749)
+    at e.$acceptDirtyStateChanged (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:1010)
+    at e.$acceptModelSaved (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:623:793)
+    at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:983)
+    at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:584:701)
+    at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:836)
+    at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:583:605)
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:582:671
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:523
+    at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:459
+    at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:729)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:146:633)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+
