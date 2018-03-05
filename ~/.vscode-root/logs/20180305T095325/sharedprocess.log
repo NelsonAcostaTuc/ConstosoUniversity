@@ -1,0 +1,23 @@
+[2018-03-05 09:53:30.271] [sharedprocess] [info] main {"machineId":"5f906e6d34bef1eee3dd2031af0af689fb6fb0de9d2e8e4846ac068d85ceca24"}
+[2018-03-05 09:53:32.110] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-05 09:53:32.218] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 09:53:33.308] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 09:53:33.321] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 09:53:33.338] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 09:53:33.351] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 09:53:33.423] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-05 09:53:33.430] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-05 09:53:33.440] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-05 09:53:35.720] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 09:53:37.937] [sharedprocess] [info] Installing extension: Angular-BeastCode
+[2018-03-05 09:53:46.769] [sharedprocess] [info] Downloaded extension: Angular-BeastCode
+[2018-03-05 09:53:46.902] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/Mikael.angular-beastcode-5.2.16: Mikael.angular-beastcode-5.2.16
+[2018-03-05 09:53:46.907] [sharedprocess] [info] Updated metadata of the extension: Mikael.angular-beastcode-5.2.16
+[2018-03-05 09:53:46.907] [sharedprocess] [info] Extensions installed successfully: Mikael.angular-beastcode
+[2018-03-05 09:53:47.089] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 09:53:47.122] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-05 09:58:35.795] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 09:59:15.908] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 10:01:11.753] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 10:01:15.297] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-05 10:03:35.846] [sharedprocess] [info] Scanned user extensions: 19

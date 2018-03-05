@@ -1,3 +1,6 @@
 [2018-03-01 10:25:48.609] [main] [info] update#setState idle
 [2018-03-01 10:26:18.611] [main] [info] update#setState checking for updates
 [2018-03-01 10:26:19.744] [main] [info] update#setState idle
+[2018-03-01 11:26:18.738] [main] [info] update#setState checking for updates
+[2018-03-01 11:26:39.974] [main] [error] Error: net::ERR_CONNECTION_REFUSED
+[2018-03-01 11:26:39.982] [main] [info] update#setState idle
