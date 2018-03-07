@@ -1,0 +1,8 @@
+git rev-parse --show-toplevel  (completed in 0.067s)
+git rev-parse --abbrev-ref HEAD  (completed in 0.008s)
+Server running on http://localhost:33489/?_&id=f44666688a922d23cc3282c23968229c&branchName=master&file=%2Fhome%2FConstosoUniversity%2FModels%2FStudent.cs&theme=&branchSelection=1&locale=en_US
+git branch  (completed in 0.016s)
+git shortlog -e -s -n HEAD  (completed in 0.122s)
+git log --full-history --pretty=oneline --date-order --decorate=full --skip=0 --max-count=100 master --follow -- Models/Student.cs  (completed in 0.21s)
+git show-ref  (completed in 0.008s)
+git remote get-url origin  (completed in 0.01s)

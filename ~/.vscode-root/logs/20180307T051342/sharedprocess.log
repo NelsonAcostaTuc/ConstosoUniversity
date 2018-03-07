@@ -1,0 +1,99 @@
+[2018-03-07 05:13:46.621] [sharedprocess] [info] main {"machineId":"5f906e6d34bef1eee3dd2031af0af689fb6fb0de9d2e8e4846ac068d85ceca24"}
+[2018-03-07 05:13:47.193] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:13:47.731] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 05:13:48.784] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:13:48.786] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:13:48.797] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:13:48.812] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:13:48.868] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 05:13:48.872] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 05:13:48.879] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 05:13:51.243] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:13:52.147] [sharedprocess] [info] Installing extension: vscode-database
+[2018-03-07 05:13:52.154] [sharedprocess] [info] Installing extension: gitlens
+[2018-03-07 05:13:55.509] [sharedprocess] [info] Downloaded extension: gitlens
+[2018-03-07 05:13:55.680] [sharedprocess] [info] Downloaded extension: vscode-database
+[2018-03-07 05:13:56.785] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/bajdzis.vscode-database-1.5.1: bajdzis.vscode-database-1.5.1
+[2018-03-07 05:13:56.801] [sharedprocess] [info] Updated metadata of the extension: bajdzis.vscode-database-1.5.1
+[2018-03-07 05:13:56.801] [sharedprocess] [info] Extensions installed successfully: bajdzis.vscode-database
+[2018-03-07 05:13:56.952] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:13:56.981] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 05:13:57.644] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/eamodio.gitlens-8.1.0: eamodio.gitlens-8.1.0
+[2018-03-07 05:13:57.695] [sharedprocess] [info] Updated metadata of the extension: eamodio.gitlens-8.1.0
+[2018-03-07 05:13:57.695] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2018-03-07 05:13:57.864] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:13:57.893] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 05:18:51.365] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:23:51.470] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:28:51.552] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:33:51.640] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:36:47.701] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:37:04.499] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:37:06.796] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:38:51.708] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:43:38.567] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:43:51.815] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:48:51.905] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:53:52.024] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 05:58:52.159] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:03:52.251] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:08:52.360] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:13:53.153] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:18:53.259] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:23:53.353] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:25:29.442] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:28:53.447] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:33:53.541] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:38:54.027] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:43:54.136] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:48:54.268] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:53:54.338] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 06:58:54.397] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:03:54.466] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:08:54.522] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:13:54.907] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:18:54.970] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:23:55.024] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:28:55.084] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:33:56.295] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:38:56.400] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:41:37.268] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:41:37.304] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:41:37.309] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:41:38.095] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 07:41:38.100] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 07:41:39.086] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:41:50.946] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:42:03.335] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:42:06.512] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:43:41.304] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:43:41.305] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:43:41.312] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:43:41.353] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 07:43:41.359] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 07:43:43.841] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:43:45.061] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:43:59.371] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:44:01.439] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:44:21.898] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:48:43.902] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:53:43.967] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 07:58:44.021] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:03:44.075] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:08:44.135] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:13:44.215] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:18:44.601] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:23:44.671] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:28:44.726] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:33:44.778] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:38:44.826] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:43:44.889] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:48:44.974] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:53:45.035] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 08:58:45.093] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 09:03:45.168] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 09:08:45.244] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 09:13:45.306] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 09:18:45.601] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 09:23:45.674] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-07 09:28:46.114] [sharedprocess] [info] Scanned user extensions: 19

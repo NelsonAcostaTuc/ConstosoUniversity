@@ -22,3 +22,5 @@
 [2018-03-05 09:59:16.330] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/k--kato.docomment-0.0.17/out/src/extension
 [2018-03-05 10:04:53.105] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html {"startup":false,"activationEvent":"onLanguage:razor"}
 [2018-03-05 10:04:53.105] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html/client/out/htmlMain
+[2018-03-05 10:09:43.474] [exthost1] [info] ExtensionService#_doActivateExtension jmrog.vscode-nuget-package-manager {"startup":false,"activationEvent":"onCommand:extension.addNuGetPackage"}
+[2018-03-05 10:09:43.474] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/jmrog.vscode-nuget-package-manager-1.1.6/out/src/extension

@@ -52,3 +52,25 @@ OmniSharp server started wth Mono
         Update project: ContosoUniversity
 [info]: OmniSharp.Roslyn.CSharp.Services.Refactoring.V2.RunCodeActionService
         Applying code action: Remove Unnecessary Usings
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/ConstosoUniversity/ContosoUniversity.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/ConstosoUniversity/ContosoUniversity.csproj
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: ContosoUniversity
+[warn]: OmniSharp.MSBuild.PackageDependencyChecker
+        ContosoUniversity: Did not find 'Microsoft.EntityFrameworkCore.Tools.DotNet' in lock file.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/ConstosoUniversity/ContosoUniversity.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/ConstosoUniversity/ContosoUniversity.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/ConstosoUniversity/ContosoUniversity.csproj
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: ContosoUniversity
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/ConstosoUniversity/ContosoUniversity.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/ConstosoUniversity/ContosoUniversity.csproj
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: ContosoUniversity

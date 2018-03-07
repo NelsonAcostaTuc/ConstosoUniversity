@@ -1,4 +1,5 @@
 {
     "workbench.iconTheme": "vscode-icons",
-    "vsicons.dontShowNewVersionMessage": true
+    "vsicons.dontShowNewVersionMessage": true,
+    "gitlens.keymap": "alternate"
 }

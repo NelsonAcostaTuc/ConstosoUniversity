@@ -432,6 +432,8 @@
     "pickerWorkingDir": "/home",
     "openedPathsList": {
         "workspaces": [
+            "/home/MVCEventCalendar",
+            "/home/MVC-FullCalendar-Demo/MVCFullCalendar",
             "/home/ConstosoUniversity",
             "/home/proyectoABMMovie"
         ],
