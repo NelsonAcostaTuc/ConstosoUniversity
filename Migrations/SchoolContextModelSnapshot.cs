@@ -61,9 +61,11 @@ namespace ContosoUniversity.Migrations
 
                     b.Property<DateTime>("EnrollmentDate");
 
-                    b.Property<string>("FirstName");
+                    b.Property<string>("FirstName")
+                        .HasMaxLength(50);
 
-                    b.Property<string>("LastName");
+                    b.Property<string>("LastName")
+                        .HasMaxLength(50);
 
                     b.HasKey("ID");
 
