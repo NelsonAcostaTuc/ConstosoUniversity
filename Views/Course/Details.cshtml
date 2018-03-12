@@ -18,6 +18,12 @@
     <hr />
     <dl class="dl-horizontal">
         <dt>
+            @Html.DisplayNameFor(model => model.CourseID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CourseID)
+        </dd>
+        <dt>
             @Html.DisplayNameFor(model => model.Title)
         </dt>
         <dd>
@@ -33,13 +39,16 @@
             @Html.DisplayNameFor(model => model.Department)
         </dt>
         <dd>
-            @Html.DisplayFor(model => model.Department.DepartmentID)
+            @Html.DisplayFor(model => model.Department.Name)
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model.CourseID">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+     <form asp-action="Details">
+        <input type="hidden" asp-for="CourseID" />
+        <input type="submit" value="Details" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
 </div>
 </body>
 </html>

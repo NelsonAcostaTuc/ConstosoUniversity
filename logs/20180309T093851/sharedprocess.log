@@ -1,0 +1,56 @@
+[2018-03-09 09:38:54.897] [sharedprocess] [info] main {"machineId":"5f906e6d34bef1eee3dd2031af0af689fb6fb0de9d2e8e4846ac068d85ceca24"}
+[2018-03-09 09:38:56.157] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:38:56.383] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 09:38:57.841] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:38:57.846] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:38:57.858] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:38:57.903] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 09:38:57.910] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 09:39:00.335] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:39:00.651] [sharedprocess] [info] Installing extension: python
+[2018-03-09 09:39:05.789] [sharedprocess] [info] Downloaded extension: python
+[2018-03-09 09:39:12.726] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/ms-python.python-2018.2.0: ms-python.python-2018.2.0
+[2018-03-09 09:39:12.744] [sharedprocess] [info] Updated metadata of the extension: ms-python.python-2018.2.0
+[2018-03-09 09:39:12.745] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2018-03-09 09:39:12.955] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:39:12.958] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:39:13.019] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 09:39:13.024] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 09:39:28.408] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:39:28.413] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:39:28.424] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:39:28.470] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 09:39:28.475] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 09:39:31.044] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:44:13.846] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:44:14.786] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:44:25.821] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:44:31.116] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:45:30.835] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:49:31.233] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:54:31.351] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 09:59:31.442] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:04:31.483] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:09:31.527] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:14:31.578] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:19:31.629] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:24:31.675] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:29:31.747] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:34:31.838] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:39:32.244] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:44:32.329] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:49:32.380] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:54:32.468] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 10:59:32.529] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:04:32.607] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:09:32.675] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:14:32.738] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:19:32.781] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:24:32.835] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:29:32.924] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:34:33.021] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:39:33.337] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:44:33.425] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:49:33.504] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:54:33.550] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-09 11:59:33.583] [sharedprocess] [info] Scanned user extensions: 19

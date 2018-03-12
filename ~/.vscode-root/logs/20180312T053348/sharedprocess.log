@@ -1,0 +1,70 @@
+[2018-03-12 05:33:50.067] [sharedprocess] [info] main {"machineId":"5f906e6d34bef1eee3dd2031af0af689fb6fb0de9d2e8e4846ac068d85ceca24"}
+[2018-03-12 05:33:50.976] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:33:53.489] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:33:53.495] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:33:53.500] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:33:53.508] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:33:53.513] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:33:53.524] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-12 05:33:53.601] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-12 05:33:53.608] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-12 05:33:53.618] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-12 05:33:56.064] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:33:57.943] [sharedprocess] [info] Installing extension: Angular-BeastCode
+[2018-03-12 05:33:57.946] [sharedprocess] [info] Installing extension: gitlens
+[2018-03-12 05:33:57.947] [sharedprocess] [info] Installing extension: python
+[2018-03-12 05:33:57.947] [sharedprocess] [info] Installing extension: debugger-for-chrome
+[2018-03-12 05:33:57.948] [sharedprocess] [info] Installing extension: vscode-icons
+[2018-03-12 05:34:05.805] [sharedprocess] [info] Downloaded extension: gitlens
+[2018-03-12 05:34:07.313] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/eamodio.gitlens-8.1.1: eamodio.gitlens-8.1.1
+[2018-03-12 05:34:07.434] [sharedprocess] [info] Updated metadata of the extension: eamodio.gitlens-8.1.1
+[2018-03-12 05:34:07.434] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2018-03-12 05:34:07.506] [sharedprocess] [info] Downloaded extension: Angular-BeastCode
+[2018-03-12 05:34:07.587] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:34:07.626] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-12 05:34:07.744] [sharedprocess] [info] Downloaded extension: vscode-icons
+[2018-03-12 05:34:07.747] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/Mikael.angular-beastcode-5.2.17: Mikael.angular-beastcode-5.2.17
+[2018-03-12 05:34:07.785] [sharedprocess] [info] Updated metadata of the extension: Mikael.angular-beastcode-5.2.17
+[2018-03-12 05:34:07.785] [sharedprocess] [info] Extensions installed successfully: Mikael.angular-beastcode
+[2018-03-12 05:34:07.937] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:34:07.954] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-12 05:34:08.089] [sharedprocess] [info] Downloaded extension: debugger-for-chrome
+[2018-03-12 05:34:09.557] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/msjsdiag.debugger-for-chrome-4.2.0: msjsdiag.debugger-for-chrome-4.2.0
+[2018-03-12 05:34:09.917] [sharedprocess] [info] Updated metadata of the extension: msjsdiag.debugger-for-chrome-4.2.0
+[2018-03-12 05:34:09.917] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2018-03-12 05:34:10.063] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:34:10.084] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-12 05:34:11.698] [sharedprocess] [info] Downloaded extension: python
+[2018-03-12 05:34:11.763] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/robertohuertasm.vscode-icons-7.21.0: robertohuertasm.vscode-icons-7.21.0
+[2018-03-12 05:34:11.779] [sharedprocess] [info] Updated metadata of the extension: robertohuertasm.vscode-icons-7.21.0
+[2018-03-12 05:34:11.779] [sharedprocess] [info] Extensions installed successfully: robertohuertasm.vscode-icons
+[2018-03-12 05:34:11.929] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:34:11.953] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-12 05:34:18.657] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/ms-python.python-2018.2.1: ms-python.python-2018.2.1
+[2018-03-12 05:34:19.657] [sharedprocess] [info] Updated metadata of the extension: ms-python.python-2018.2.1
+[2018-03-12 05:34:19.658] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2018-03-12 05:34:19.825] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:34:19.842] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-12 05:38:56.181] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:43:56.292] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:48:56.410] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:53:56.555] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:58:55.299] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:58:56.625] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 05:58:58.101] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:03:56.697] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:08:56.796] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:13:56.914] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:18:57.029] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:23:57.092] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:28:57.170] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:33:57.545] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:38:58.098] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:43:58.258] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:48:58.375] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:53:58.483] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 06:58:58.550] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 07:03:58.612] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 07:06:45.997] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 07:08:58.765] [sharedprocess] [info] Scanned user extensions: 19
+[2018-03-12 07:13:58.879] [sharedprocess] [info] Scanned user extensions: 19
