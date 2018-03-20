@@ -32,7 +32,8 @@ namespace ContosoUniversity.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=127.0.0.1;Database=ContosoUniversity4;User Id=sa;Password=Synagro1234;");
+            //optionsBuilder.UseSqlServer(@"Server=127.0.0.1;Database=ContosoUniversity4;User Id=sa;Password=Synagro1234;");
+            optionsBuilder.UseMySql("server=localhost;database=ConstosoUniversity4;user=dba;password=gestion525");
         }
     }   
 }
