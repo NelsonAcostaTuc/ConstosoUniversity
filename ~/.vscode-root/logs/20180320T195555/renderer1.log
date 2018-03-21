@@ -1,0 +1,116 @@
+[2018-03-20 22:39:31.409] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:04.174] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:06.716] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:13.377] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:15.703] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:20.680] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:22.789] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:38.269] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:40.780] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:41.855] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:40:49.293] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:41:44.999] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:50:15.702] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:50:21.233] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:50:22.389] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:50:45.075] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:50:56.417] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:50:57.689] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:51:06.212] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:51:35.499] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:51:41.175] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:55:18.097] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:55:21.787] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:55:39.793] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:56:16.149] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:56:17.325] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:56:32.761] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:56:34.923] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>
+[2018-03-20 22:58:30.621] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:307:319)
+	at asHover (/root/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/node_modules/vscode-languageclient/lib/protocolConverter.js:63:16)
+	at <anonymous>

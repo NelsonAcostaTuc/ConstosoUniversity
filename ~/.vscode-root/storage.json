@@ -6,16 +6,6 @@
             "label": "Ctrl+N",
             "isNative": true
         },
-        "workbench.action.files.openFolder": {
-            "id": "workbench.action.files.openFolder",
-            "label": "Ctrl+K Ctrl+O",
-            "isNative": false
-        },
-        "workbench.action.files.openFile": {
-            "id": "workbench.action.files.openFile",
-            "label": "Ctrl+O",
-            "isNative": true
-        },
         "workbench.action.reopenClosedEditor": {
             "id": "workbench.action.reopenClosedEditor",
             "label": "Ctrl+Shift+T",
@@ -63,7 +53,7 @@
         },
         "workbench.action.closeWindow": {
             "id": "workbench.action.closeWindow",
-            "label": "Ctrl+Shift+W",
+            "label": "Ctrl+W",
             "isNative": true
         },
         "workbench.action.closeFolder": {
@@ -74,6 +64,11 @@
         "workbench.action.closeActiveEditor": {
             "id": "workbench.action.closeActiveEditor",
             "label": "Ctrl+W",
+            "isNative": true
+        },
+        "workbench.action.quit": {
+            "id": "workbench.action.quit",
+            "label": "Ctrl+Q",
             "isNative": true
         },
         "undo": {
@@ -208,8 +203,8 @@
         },
         "workbench.view.scm": {
             "id": "workbench.view.scm",
-            "label": "Ctrl+Shift+G G",
-            "isNative": false
+            "label": "Ctrl+Shift+G",
+            "isNative": true
         },
         "workbench.view.debug": {
             "id": "workbench.view.debug",
@@ -253,7 +248,7 @@
         },
         "workbench.action.toggleEditorGroupLayout": {
             "id": "workbench.action.toggleEditorGroupLayout",
-            "label": "Shift+Alt+0",
+            "label": "Shift+Alt+1",
             "isNative": true
         },
         "workbench.action.toggleSidebarVisibility": {
@@ -432,7 +427,6 @@
     "pickerWorkingDir": "/home",
     "openedPathsList": {
         "workspaces": [
-            "/home/ConstosoUniversity",
             "/home/ConstosoUniversity",
             "/home/ConstosoUniversity",
             "/home/MVCEventCalendar",
